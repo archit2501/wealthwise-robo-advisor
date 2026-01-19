@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![WealthWise Logo](https://via.placeholder.com/200x60/10B981/FFFFFF?text=WealthWise)
+![WealthWise Landing Page](screenshots/landing-page.png)
 
 **AI-Powered Portfolio Management That Delivers +86% Better Returns**
 
@@ -85,7 +85,7 @@ AI-optimized portfolios using Nobel Prize-winning Modern Portfolio Theory.
 ### Automated Rebalancing
 Smart rebalancing that triggers when portfolio drifts >5% from target allocation.
 
-![Rebalancing](https://via.placeholder.com/800x400/F3F4F6/000000?text=Automated+Rebalancing+Dashboard)
+![Dashboard](screenshots/dashboard.png)
 
 **Benefits**:
 - Maintains target risk level
